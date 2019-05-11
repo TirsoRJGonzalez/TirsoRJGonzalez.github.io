@@ -5,6 +5,5 @@
    hard_wrap: false
  future: true
  jailed: false
- theme: hacker
+ theme: jekyll-theme-midnight
  gfm_quirks: paragraph_end
-theme: jekyll-theme-midnight
